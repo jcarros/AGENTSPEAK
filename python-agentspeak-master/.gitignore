@@ -1,0 +1,11 @@
+venv*/
+*.swp
+*.py[cod]
+*~
+.tox
+
+dist/
+build/
+agentspeak.egg-info/
+docs/_build/
+.vscode/launch.json
